@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TILr</string>
+    <string name="titleLabel">Today I learned...</string>
+    <string name="button_title">Learn More Today</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error. Please try again</string>
+    <string name="error_okay_button_text">Okay</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="network_unavailable">Network is unavailable</string>
+
+</resources>
